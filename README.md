@@ -2,20 +2,16 @@
 
 > Today I Learned
 
-A collection of concise write-ups on small things I learn day to day across a
-variety of languages and technologies. These are things that don't really
-warrant a full blog post. These are things I've picked up by Learning In Public™
-and pairing with smart people at Hashrocket.
+Records of small knowledge that I acquired on a daily basis, seeking to better understand technology, languages, personal development and programming. I research things that together make me better every day.
 
-For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
-
-_932 TILs and counting..._
+<!-- _932 TILs and counting..._ -->
 
 ---
 
 ### Categories
 
 * [JavaScript](#javascript)
+
 <!--
 * [CSS](#css)
 * [Devops](#devops)
@@ -30,10 +26,11 @@ _932 TILs and counting..._
 
 ### JavaScript
 - [Debugging objects like a pro.](javascript/debugging-objects-like-a-pro.md)
+- [Stylizing texts with console.log.](javascript/stylizing-texts-with-console-log.md)
 
 This idea was inspired from
-[thoughtbot/til](https://github.com/thoughtbot/til).
-[filipedeschamps](https://github.com/filipedeschamps).
+- [thoughtbot/til](https://github.com/thoughtbot/til)
+- [filipedeschamps](https://github.com/filipedeschamps)
 
 <!-- ## License
 
