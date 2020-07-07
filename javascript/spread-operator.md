@@ -25,5 +25,5 @@ console.log(arr2);
 
 ```
 
-See the [Destructuring assignment docs](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators/Atribuicao_via_desestruturacao)
-on MDN for more details.
+See the [Spread operator - tutorial](https://www.luiztools.com.br/post/4-segredos-do-operador-spread-em-javascript/)
+on LuizTools.com.br for more details.
