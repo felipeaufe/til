@@ -27,6 +27,9 @@ Records of small knowledge that I acquired on a daily basis, seeking to better u
 ### JavaScript
 - [Debugging objects like a pro.](javascript/debugging-objects-like-a-pro.md)
 - [Stylizing texts with console.log.](javascript/stylizing-texts-with-console-log.md)
+- [Showing object like a table with console.table.](javascript/showing-object-like-a-table-with-console-table.md)
+- [Destructuring assignment.](javascript/destructuring-assignment.md)
+- [Spread operator.](javascript/spread-operator.md)
 
 This idea was inspired from
 - [thoughtbot/til](https://github.com/thoughtbot/til)
