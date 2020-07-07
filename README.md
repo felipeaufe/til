@@ -30,6 +30,7 @@ Records of small knowledge that I acquired on a daily basis, seeking to better u
 - [Showing object like a table with console.table.](javascript/showing-object-like-a-table-with-console-table.md)
 - [Destructuring assignment.](javascript/destructuring-assignment.md)
 - [Spread operator.](javascript/spread-operator.md)
+- [Async function.](javascript/async-function.md)
 
 This idea was inspired from
 - [thoughtbot/til](https://github.com/thoughtbot/til)
