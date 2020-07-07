@@ -8,6 +8,7 @@ const fel = { name: 'Felipe', age: 29, happy: true }
 const ana = { name: 'Ana', age: 33, happy: true }
 
 console.log({ jon, fel, ana });
+
 // {jon: {…}, fel: {…}, ana: {…}}
 // ana: {name: "Ana", age: 33, happy: true}
 // fel: {name: "Felipe", age: 29, happy: true}
